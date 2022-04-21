@@ -2,6 +2,12 @@
 
 Currently work in progress.
 
+Todo:
+
+- Navbar that takes data from .json &&|| props, adaptable.
+- Hero that is adaptable, takes content from .json &&|| props.
+- Footer component.
+
 -
 -
 -

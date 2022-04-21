@@ -1,7 +1,7 @@
 import './style.css';
 
 function Navbar() {
-  return <div>Navbar</div>;
+  return <div className='nav-container'>Navbar</div>;
 }
 
 export default Navbar;
